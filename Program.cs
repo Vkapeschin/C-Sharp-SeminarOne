@@ -5,5 +5,5 @@
 //string d = "строка";
 //char = '#';
 
-
-Console.WhriteLine();
+int a = 5, b = 3;
+Console.WriteLine("My numbers are " + a + " and " + b);
