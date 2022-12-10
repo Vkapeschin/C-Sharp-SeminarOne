@@ -1,0 +1,15 @@
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\bin\Debug\net6.0\SeminarOne.exe
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\bin\Debug\net6.0\SeminarOne.deps.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\bin\Debug\net6.0\SeminarOne.runtimeconfig.json
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\bin\Debug\net6.0\SeminarOne.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\bin\Debug\net6.0\SeminarOne.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.csproj.AssemblyReference.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.AssemblyInfoInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.AssemblyInfo.cs
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.csproj.CoreCompileInputs.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\refint\SeminarOne.dll
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.pdb
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\SeminarOne.genruntimeconfig.cache
+E:\Vladimir\Desktop\Моя папка\IT\IT\GeekBrains\Програмирование\Seminars\SeminarOne\obj\Debug\net6.0\ref\SeminarOne.dll
